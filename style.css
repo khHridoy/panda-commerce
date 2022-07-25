@@ -1,0 +1,26 @@
+.panda-bg {
+  background-color: #fceae8;
+}
+nav {
+  margin-bottom: 580px;
+}
+.carousel-price {
+  color: #ff136f;
+}
+.panda-btn {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.watch-bg {
+  background-color: orange;
+}
+.bag-bg {
+  background-color: orchid;
+}
+.shoe-bg {
+  background-color: blue;
+}
